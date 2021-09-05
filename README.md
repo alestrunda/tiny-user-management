@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## User accounts
 
-Since the user data are static, to log in you can you these emails: `test@test.com`, `email@email.com`, `test@email.comc`.
+Since the user data are static, to log in you can you these emails: `test@test.com`, `email@email.com`, `test@email.com`.
 
 Put anything as a password, it's not checked.
 
