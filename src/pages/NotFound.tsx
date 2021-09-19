@@ -1,9 +1,9 @@
 import Page from "../components/Page";
 
-const SignIn = () => (
+const NotFound = () => (
   <Page>
     <h1>Page not found</h1>
   </Page>
 );
 
-export default SignIn;
+export default NotFound;
